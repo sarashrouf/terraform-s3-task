@@ -78,7 +78,4 @@ terraform state rm aws_s3_bucket.manual
 terraform destroy
 ```
 
-````
 
-بس في ملاحظة: لما تنسخي النص على `README.md`، **لا تنسخي أول وآخر ``` اللي أنا حاطهم حوالين كل الـ README**؛ انسخي المحتوى اللي بينهم فقط.
-````

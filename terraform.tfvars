@@ -1,0 +1,6 @@
+aws_region         = "us-west-2"
+project_name       = "terraform-s3-task"
+environment        = "dev"
+owner              = "Sara"
+unique_id          = "sara21"
+manual_bucket_name = "sara-manual-bucket-21"
